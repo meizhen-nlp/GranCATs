@@ -10,6 +10,8 @@ You can download the parallel corpus covering 29 kinds of languages from [here](
 
 ## What is GranCATs?
 
+GranCATs provides a set of multilingual contrastive adapters, involving **phrase-level**, **sentence-level** and **paragraph-level** contrastive adapter. Granularity-specific adapter can be adaptively plugged into *Transformer Layer* and help the ability of cross-lingual alignments and boost performance on multilingual understanding tasks.
+
 ## What is released in this repo?
 
 
